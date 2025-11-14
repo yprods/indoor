@@ -1,0 +1,5 @@
+export const PLACE_BASE_LATITUDE = 31.8006;
+export const PLACE_BASE_LONGITUDE = 34.6402;
+export const PLACE_COORDINATE_SCALE = 0.00012;
+
+
